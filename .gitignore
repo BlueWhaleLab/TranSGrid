@@ -1,0 +1,22 @@
+data/dev
+data/raw
+data/train
+data/train.jsonl
+data/dev.jsonl
+data/test.jsonl
+utils/*.jsonl
+.DS_Store
+checkpoints/
+
+# python
+__pycache__/
+*.py[cod]
+.vscode/
+.venv/
+.conda/
+runs/
+logs/
+archived/
+plotting/
+misc/
+data/ablation/linear/train_bg0_900k_of_30M.jsonl
